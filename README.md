@@ -1,5 +1,5 @@
-#To Test/
+#To Test\
 npm install
 
-#mocha/
+#mocha\
 mocha src/test/functions/exceljsFunctionTest.js
