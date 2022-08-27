@@ -22,6 +22,7 @@
   "dependencies": {
     "aws-sdk": "^2.462.0",
     "exceljs": "^4.3.0",
+    "mocha": "^10.0.0",
     "serverless-mocha-plugin": "^1.12.0"
   }
 }
